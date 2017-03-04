@@ -1,0 +1,29 @@
+.box{
+  border: 1px solid black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.red:hover{
+  background-color: red;
+}
+
+.orange:hover{
+  background-color: orange;
+}
+
+.yellow:hover{
+  background-color: yellow;
+  
+}.green:hover{
+  background-color: green;
+}
+
+.blue:hover{
+  background-color: blue;
+}
+
+.purple:hover{
+  background-color: purple;
+}
